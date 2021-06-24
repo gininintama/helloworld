@@ -11,9 +11,6 @@ public:
 	int id;
 	int strength;
 	string name;
-	//warrior(int id_, int strength_, string name_) {
-		//id = id_; strength = strength_; name = name_;
-	//}
 };
 class base {
 public:
